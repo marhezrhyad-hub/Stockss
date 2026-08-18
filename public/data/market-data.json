@@ -1,0 +1,5097 @@
+{
+  "generatedAt": "2026-08-18T02:13:05.597Z",
+  "mode": "demo",
+  "marketRegime": "neutral",
+  "regimeExplanation": "Neutral because broad live coverage is insufficient.",
+  "assets": [
+    {
+      "id": "stock-nova",
+      "kind": "stock",
+      "symbol": "NVBT",
+      "name": "Nova Battery Labs",
+      "category": "Clean technology",
+      "sector": "Clean technology",
+      "exchange": "NASDAQ",
+      "price": 7.42,
+      "marketCap": 680000000,
+      "change24h": 6.8,
+      "volume24h": 4100000,
+      "avgDailyDollarVolume": 24946040,
+      "momentum": 66.32,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 6.970730014754611,
+          "volume": 6678000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 7.047744563559107,
+          "volume": 7880040
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 6.961530771502411,
+          "volume": 9082080
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 6.79709808813539,
+          "volume": 10284120
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 6.6903176781795874,
+          "volume": 11486160
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 6.739572403210577,
+          "volume": 6678000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 6.9417835154744125,
+          "volume": 7880040
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 7.1944126089345035,
+          "volume": 9082080
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 7.362137061923909,
+          "volume": 10284120
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 7.3648433661746,
+          "volume": 11486160
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 7.229720813784784,
+          "volume": 6678000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 7.073581701363656,
+          "volume": 7880040
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 7.026904311732603,
+          "volume": 9082080
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 7.148989608866186,
+          "volume": 10284120
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 7.389400876213599,
+          "volume": 11486160
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 7.6207601149648365,
+          "volume": 6678000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 7.721575394144178,
+          "volume": 7880040
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 7.655240794042106,
+          "volume": 9082080
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 7.493839349860201,
+          "volume": 10284120
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 7.371271167647799,
+          "volume": 11486160
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 7.396185083890663,
+          "volume": 6678000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 7.581329924747829,
+          "volume": 7880040
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 7.835264601221725,
+          "volume": 9082080
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 8.021817538275359,
+          "volume": 10284120
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 8.048632034499914,
+          "volume": 11486160
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 7.927221066810483,
+          "volume": 6678000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 7.765480994708398,
+          "volume": 7880040
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 7.6975321165333295,
+          "volume": 9082080
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 7.7965071493498925,
+          "volume": 10284120
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 8.026996790848527,
+          "volume": 11486160
+        }
+      ],
+      "score": {
+        "opportunity": 56.5,
+        "risk": 89.7,
+        "riskGrade": "F",
+        "parts": [
+          {
+            "label": "Financial quality",
+            "score": 56,
+            "weight": 0.2,
+            "explanation": "Cash generation, balance-sheet strength, and operating quality."
+          },
+          {
+            "label": "Valuation",
+            "score": 48,
+            "weight": 0.15,
+            "explanation": "Valuation relative to fundamentals, not the nominal share price."
+          },
+          {
+            "label": "Growth",
+            "score": 82,
+            "weight": 0.15,
+            "explanation": "Revenue and earnings trajectory."
+          },
+          {
+            "label": "Catalyst strength",
+            "score": 76,
+            "weight": 0.15,
+            "explanation": "Specific, time-bound events with credible evidence."
+          },
+          {
+            "label": "Market momentum",
+            "score": 74,
+            "weight": 0.1,
+            "explanation": "Price and volume trend without assuming persistence."
+          },
+          {
+            "label": "Potential squeeze conditions",
+            "score": 67,
+            "weight": 0.1,
+            "explanation": "Short interest, float, days to cover, and attention; no squeeze is predicted."
+          },
+          {
+            "label": "Liquidity",
+            "score": 78,
+            "weight": 0.1,
+            "explanation": "Ability to trade without excessive price impact."
+          },
+          {
+            "label": "Data quality",
+            "score": 70,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [
+          {
+            "label": "Dilution",
+            "points": 7,
+            "explanation": "Potential new shares or convertibles can reduce each holder’s ownership."
+          },
+          {
+            "label": "Extreme volatility",
+            "points": 4,
+            "explanation": "Large swings increase loss and timing risk."
+          }
+        ],
+        "explanation": "Stock Opportunity Score is a weighted research score, reduced by 11 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current quote or company record."
+      ],
+      "catalysts": [
+        "Illustrative product milestone",
+        "Illustrative quarterly update"
+      ],
+      "risks": [
+        "Execution risk",
+        "Financing and dilution risk",
+        "Speculative valuation"
+      ],
+      "bullCase": "The fictional company converts its pipeline into durable revenue while funding needs remain controlled.",
+      "bearCase": "Execution delays and expensive financing outweigh attention and headline growth.",
+      "thesisNeeds": [
+        "Revenue growth must remain durable",
+        "Cash runway must extend beyond the next milestone",
+        "Relative volume must be supported by new evidence"
+      ],
+      "invalidationPoints": [
+        "Material milestone failure",
+        "Unexpected dilutive financing",
+        "Liquidity falls below the research threshold"
+      ],
+      "permanentLossCauses": [
+        "Insolvency",
+        "Repeated dilution without value creation",
+        "Technology or product obsolescence"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Nova Battery Labs executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Nova Battery Labs makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Nova Battery Labs misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "months",
+      "enterpriseValue": 612000000,
+      "revenueGrowth": 38,
+      "earningsGrowth": null,
+      "freeCashFlow": -42000000,
+      "cash": 118000000,
+      "debt": 50000000,
+      "priceToSales": 5.8,
+      "priceToEarnings": null,
+      "estimateRevisions": null,
+      "insiderNetBuying": null,
+      "institutionalOwnership": 37,
+      "shortInterest": 18.4,
+      "daysToCover": 4.6,
+      "publicFloat": 64000000,
+      "relativeVolume": 2.3,
+      "upcomingEarnings": null,
+      "recentFilings": [],
+      "shelfRegistration": false,
+      "convertibleDebt": false,
+      "reverseSplitCount": 0,
+      "dilutionRisk": "medium",
+      "otc": false,
+      "bankrupt": false,
+      "halted": false,
+      "retailAttention": 72,
+      "optionsActivity": 50,
+      "searchMomentum": 54,
+      "socialMomentum": 49,
+      "borrowPressure": null,
+      "disqualified": false
+    },
+    {
+      "id": "stock-orbit",
+      "kind": "stock",
+      "symbol": "ORBX",
+      "name": "OrbitLink Systems",
+      "category": "Aerospace",
+      "sector": "Aerospace",
+      "exchange": "NASDAQ",
+      "price": 13.18,
+      "marketCap": 1340000000,
+      "change24h": 3.2,
+      "volume24h": 2600000,
+      "avgDailyDollarVolume": 28099760,
+      "momentum": 57.68,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 12.413258902994686,
+          "volume": 11862000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 12.214303041218718,
+          "volume": 13997160
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 11.923387061873461,
+          "volume": 16132319.999999998
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 11.781100288081536,
+          "volume": 18267480
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 11.9313861279921,
+          "volume": 20402640
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 12.327943092446333,
+          "volume": 11862000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 12.764332267918107,
+          "volume": 13997160
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 13.008213906217774,
+          "volume": 16132319.999999998
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 12.95242599256296,
+          "volume": 18267480
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 12.684666182789252,
+          "volume": 20402640
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 12.430466535956059,
+          "volume": 11862000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 12.406541635784096,
+          "volume": 13997160
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 12.679870262028052,
+          "volume": 16132319.999999998
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 13.124142540758395,
+          "volume": 18267480
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 13.501892747875036,
+          "volume": 20402640
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 13.618911035221663,
+          "volume": 11862000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 13.450528089122738,
+          "volume": 13997160
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 13.157656314100135,
+          "volume": 16132319.999999998
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 12.98215678644259,
+          "volume": 18267480
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 13.089569457012253,
+          "volume": 20402640
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 13.461471049840894,
+          "volume": 11862000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 13.907454769322253,
+          "volume": 13997160
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 14.188942029609525,
+          "volume": 16132319.999999998
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 14.174317817388792,
+          "volume": 18267480
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 13.924513154212836,
+          "volume": 20402640
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 13.653384792360248,
+          "volume": 11862000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 13.588655186759054,
+          "volume": 13997160
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 13.823836314840328,
+          "volume": 16132319.999999998
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 14.257423655365187,
+          "volume": 18267480
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 14.658899349059029,
+          "volume": 20402640
+        }
+      ],
+      "score": {
+        "opportunity": 65,
+        "risk": 76.8,
+        "riskGrade": "E",
+        "parts": [
+          {
+            "label": "Financial quality",
+            "score": 61,
+            "weight": 0.2,
+            "explanation": "Cash generation, balance-sheet strength, and operating quality."
+          },
+          {
+            "label": "Valuation",
+            "score": 42,
+            "weight": 0.15,
+            "explanation": "Valuation relative to fundamentals, not the nominal share price."
+          },
+          {
+            "label": "Growth",
+            "score": 88,
+            "weight": 0.15,
+            "explanation": "Revenue and earnings trajectory."
+          },
+          {
+            "label": "Catalyst strength",
+            "score": 84,
+            "weight": 0.15,
+            "explanation": "Specific, time-bound events with credible evidence."
+          },
+          {
+            "label": "Market momentum",
+            "score": 68,
+            "weight": 0.1,
+            "explanation": "Price and volume trend without assuming persistence."
+          },
+          {
+            "label": "Potential squeeze conditions",
+            "score": 52,
+            "weight": 0.1,
+            "explanation": "Short interest, float, days to cover, and attention; no squeeze is predicted."
+          },
+          {
+            "label": "Liquidity",
+            "score": 81,
+            "weight": 0.1,
+            "explanation": "Ability to trade without excessive price impact."
+          },
+          {
+            "label": "Data quality",
+            "score": 72,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [
+          {
+            "label": "Extreme volatility",
+            "points": 3,
+            "explanation": "Large swings increase loss and timing risk."
+          }
+        ],
+        "explanation": "Stock Opportunity Score is a weighted research score, reduced by 3 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current quote or company record."
+      ],
+      "catalysts": [
+        "Illustrative product milestone",
+        "Illustrative quarterly update"
+      ],
+      "risks": [
+        "Execution risk",
+        "Financing and dilution risk",
+        "Speculative valuation"
+      ],
+      "bullCase": "The fictional company converts its pipeline into durable revenue while funding needs remain controlled.",
+      "bearCase": "Execution delays and expensive financing outweigh attention and headline growth.",
+      "thesisNeeds": [
+        "Revenue growth must remain durable",
+        "Cash runway must extend beyond the next milestone",
+        "Relative volume must be supported by new evidence"
+      ],
+      "invalidationPoints": [
+        "Material milestone failure",
+        "Unexpected dilutive financing",
+        "Liquidity falls below the research threshold"
+      ],
+      "permanentLossCauses": [
+        "Insolvency",
+        "Repeated dilution without value creation",
+        "Technology or product obsolescence"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "OrbitLink Systems executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "OrbitLink Systems makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "OrbitLink Systems misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "months",
+      "enterpriseValue": 1290000000,
+      "revenueGrowth": 61,
+      "earningsGrowth": null,
+      "freeCashFlow": -70000000,
+      "cash": 202000000,
+      "debt": 152000000,
+      "priceToSales": 8.1,
+      "priceToEarnings": null,
+      "estimateRevisions": null,
+      "insiderNetBuying": null,
+      "institutionalOwnership": 40,
+      "shortInterest": 11.2,
+      "daysToCover": 3.4,
+      "publicFloat": 86000000,
+      "relativeVolume": 1.7,
+      "upcomingEarnings": null,
+      "recentFilings": [],
+      "shelfRegistration": false,
+      "convertibleDebt": false,
+      "reverseSplitCount": 0,
+      "dilutionRisk": "low",
+      "otc": false,
+      "bankrupt": false,
+      "halted": false,
+      "retailAttention": 67,
+      "optionsActivity": 55,
+      "searchMomentum": 58,
+      "socialMomentum": 55,
+      "borrowPressure": null,
+      "disqualified": false
+    },
+    {
+      "id": "stock-lumen",
+      "kind": "stock",
+      "symbol": "LUMNQ",
+      "name": "Lumen Quantum Works",
+      "category": "Quantum computing",
+      "sector": "Quantum computing",
+      "exchange": "NASDAQ",
+      "price": 4.86,
+      "marketCap": 420000000,
+      "change24h": 9.4,
+      "volume24h": 6800000,
+      "avgDailyDollarVolume": 27099360,
+      "momentum": 72.56,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 4.446604513370984,
+          "volume": 4374000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 4.343694101085503,
+          "volume": 5161320
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 4.311053375293605,
+          "volume": 5948639.999999999
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 4.388868163995559,
+          "volume": 6735960
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 4.545500764800133,
+          "volume": 7523280
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 4.698062312810676,
+          "volume": 4374000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 4.766311139021274,
+          "volume": 5161320
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 4.724829793609072,
+          "volume": 5948639.999999999
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 4.619552704043442,
+          "volume": 6735960
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 4.537897383450896,
+          "volume": 7523280
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 4.551921325591655,
+          "volume": 4374000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 4.671466729079724,
+          "volume": 5161320
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 4.837760622695685,
+          "volume": 5948639.999999999
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 4.961631900578821,
+          "volume": 6735960
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 4.981494698260267,
+          "volume": 7523280
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 4.903394507414589,
+          "volume": 4374000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 4.797077104088411,
+          "volume": 5161320
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 4.750636463849617,
+          "volume": 5948639.999999999
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 4.813231788089735,
+          "volume": 6735960
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 4.963121808048085,
+          "volume": 7523280
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 5.12180201177359,
+          "volume": 4374000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 5.205052083682911,
+          "volume": 5161320
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 5.17770003674163,
+          "volume": 5948639.999999999
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 5.076492743566949,
+          "volume": 6735960
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 4.986201338368838,
+          "volume": 7523280
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 4.984498915794206,
+          "volume": 4374000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 5.091453719206926,
+          "volume": 5161320
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 5.256479795947067,
+          "volume": 5948639.999999999
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 5.391230436150154,
+          "volume": 6735960
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 5.4270454865369535,
+          "volume": 7523280
+        }
+      ],
+      "score": {
+        "opportunity": 34.7,
+        "risk": 100,
+        "riskGrade": "F",
+        "parts": [
+          {
+            "label": "Financial quality",
+            "score": 38,
+            "weight": 0.2,
+            "explanation": "Cash generation, balance-sheet strength, and operating quality."
+          },
+          {
+            "label": "Valuation",
+            "score": 25,
+            "weight": 0.15,
+            "explanation": "Valuation relative to fundamentals, not the nominal share price."
+          },
+          {
+            "label": "Growth",
+            "score": 91,
+            "weight": 0.15,
+            "explanation": "Revenue and earnings trajectory."
+          },
+          {
+            "label": "Catalyst strength",
+            "score": 70,
+            "weight": 0.15,
+            "explanation": "Specific, time-bound events with credible evidence."
+          },
+          {
+            "label": "Market momentum",
+            "score": 86,
+            "weight": 0.1,
+            "explanation": "Price and volume trend without assuming persistence."
+          },
+          {
+            "label": "Potential squeeze conditions",
+            "score": 85,
+            "weight": 0.1,
+            "explanation": "Short interest, float, days to cover, and attention; no squeeze is predicted."
+          },
+          {
+            "label": "Liquidity",
+            "score": 69,
+            "weight": 0.1,
+            "explanation": "Ability to trade without excessive price impact."
+          },
+          {
+            "label": "Data quality",
+            "score": 64,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [
+          {
+            "label": "Dilution",
+            "points": 15,
+            "explanation": "Potential new shares or convertibles can reduce each holder’s ownership."
+          },
+          {
+            "label": "Excessive debt",
+            "points": 5,
+            "explanation": "Debt can impair flexibility or create refinancing risk."
+          },
+          {
+            "label": "Extreme volatility",
+            "points": 8,
+            "explanation": "Large swings increase loss and timing risk."
+          }
+        ],
+        "explanation": "Stock Opportunity Score is a weighted research score, reduced by 28 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current quote or company record.",
+        "Severe dilution risk"
+      ],
+      "catalysts": [
+        "Illustrative product milestone",
+        "Illustrative quarterly update"
+      ],
+      "risks": [
+        "Execution risk",
+        "Financing and dilution risk",
+        "Speculative valuation"
+      ],
+      "bullCase": "The fictional company converts its pipeline into durable revenue while funding needs remain controlled.",
+      "bearCase": "Execution delays and expensive financing outweigh attention and headline growth.",
+      "thesisNeeds": [
+        "Revenue growth must remain durable",
+        "Cash runway must extend beyond the next milestone",
+        "Relative volume must be supported by new evidence"
+      ],
+      "invalidationPoints": [
+        "Material milestone failure",
+        "Unexpected dilutive financing",
+        "Liquidity falls below the research threshold"
+      ],
+      "permanentLossCauses": [
+        "Insolvency",
+        "Repeated dilution without value creation",
+        "Technology or product obsolescence"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Lumen Quantum Works executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Lumen Quantum Works makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Lumen Quantum Works misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "months",
+      "enterpriseValue": 375000000,
+      "revenueGrowth": 84,
+      "earningsGrowth": null,
+      "freeCashFlow": -88000000,
+      "cash": 146000000,
+      "debt": 101000000,
+      "priceToSales": 15.2,
+      "priceToEarnings": null,
+      "estimateRevisions": null,
+      "insiderNetBuying": null,
+      "institutionalOwnership": 43,
+      "shortInterest": 24.8,
+      "daysToCover": 5.9,
+      "publicFloat": 53000000,
+      "relativeVolume": 3.1,
+      "upcomingEarnings": null,
+      "recentFilings": [],
+      "shelfRegistration": true,
+      "convertibleDebt": true,
+      "reverseSplitCount": 0,
+      "dilutionRisk": "high",
+      "otc": false,
+      "bankrupt": false,
+      "halted": false,
+      "retailAttention": 89,
+      "optionsActivity": 60,
+      "searchMomentum": 62,
+      "socialMomentum": 61,
+      "borrowPressure": null,
+      "disqualified": false
+    },
+    {
+      "id": "stock-pulse",
+      "kind": "stock",
+      "symbol": "PLSE",
+      "name": "Pulse Robotics",
+      "category": "Industrial technology",
+      "sector": "Industrial technology",
+      "exchange": "NASDAQ",
+      "price": 18.35,
+      "marketCap": 2180000000,
+      "change24h": -1.7,
+      "volume24h": 1900000,
+      "avgDailyDollarVolume": 28589300,
+      "momentum": 45.92,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 16.212443597388486,
+          "volume": 16515000.000000002
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 16.17078679619884,
+          "volume": 19487700
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 16.54386706121392,
+          "volume": 22460400
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 17.160681874875156,
+          "volume": 25433100.000000004
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 17.69174069987807,
+          "volume": 28405800.000000004
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 17.863315700181932,
+          "volume": 16515000.000000002
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 17.635432850289916,
+          "volume": 19487700
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 17.227864984562206,
+          "volume": 22460400
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 16.977224845759295,
+          "volume": 25433100.000000004
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 17.118083160761355,
+          "volume": 28405800.000000004
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 17.630439381995313,
+          "volume": 16515000.000000002
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 18.252727013090585,
+          "volume": 19487700
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 18.651896825525668,
+          "volume": 22460400
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 18.639981613191974,
+          "volume": 25433100.000000004
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 18.296321582428966,
+          "volume": 28405800.000000004
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 17.91597350346037,
+          "volume": 16515000.000000002
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 17.81785049408453,
+          "volume": 19487700
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 18.137349249619433,
+          "volume": 22460400
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 18.738308547594464,
+          "volume": 25433100.000000004
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 19.301547875677457,
+          "volume": 28405800.000000004
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 19.53241407461881,
+          "volume": 16515000.000000002
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 19.352379107138745,
+          "volume": 19487700
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 18.950102794794674,
+          "volume": 22460400
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 18.658757055803296,
+          "volume": 25433100.000000004
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 18.73938137168902,
+          "volume": 28405800.000000004
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 19.211142261239907,
+          "volume": 16515000.000000002
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 19.83887028080159,
+          "volume": 19487700
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 20.285978597522465,
+          "volume": 22460400
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 20.333328065755452,
+          "volume": 25433100.000000004
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 20.0217221233923,
+          "volume": 28405800.000000004
+        }
+      ],
+      "score": {
+        "opportunity": 63.9,
+        "risk": 69.1,
+        "riskGrade": "E",
+        "parts": [
+          {
+            "label": "Financial quality",
+            "score": 74,
+            "weight": 0.2,
+            "explanation": "Cash generation, balance-sheet strength, and operating quality."
+          },
+          {
+            "label": "Valuation",
+            "score": 62,
+            "weight": 0.15,
+            "explanation": "Valuation relative to fundamentals, not the nominal share price."
+          },
+          {
+            "label": "Growth",
+            "score": 69,
+            "weight": 0.15,
+            "explanation": "Revenue and earnings trajectory."
+          },
+          {
+            "label": "Catalyst strength",
+            "score": 58,
+            "weight": 0.15,
+            "explanation": "Specific, time-bound events with credible evidence."
+          },
+          {
+            "label": "Market momentum",
+            "score": 49,
+            "weight": 0.1,
+            "explanation": "Price and volume trend without assuming persistence."
+          },
+          {
+            "label": "Potential squeeze conditions",
+            "score": 36,
+            "weight": 0.1,
+            "explanation": "Short interest, float, days to cover, and attention; no squeeze is predicted."
+          },
+          {
+            "label": "Liquidity",
+            "score": 83,
+            "weight": 0.1,
+            "explanation": "Ability to trade without excessive price impact."
+          },
+          {
+            "label": "Data quality",
+            "score": 78,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Stock Opportunity Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current quote or company record."
+      ],
+      "catalysts": [
+        "Illustrative product milestone",
+        "Illustrative quarterly update"
+      ],
+      "risks": [
+        "Execution risk",
+        "Financing and dilution risk",
+        "Speculative valuation"
+      ],
+      "bullCase": "The fictional company converts its pipeline into durable revenue while funding needs remain controlled.",
+      "bearCase": "Execution delays and expensive financing outweigh attention and headline growth.",
+      "thesisNeeds": [
+        "Revenue growth must remain durable",
+        "Cash runway must extend beyond the next milestone",
+        "Relative volume must be supported by new evidence"
+      ],
+      "invalidationPoints": [
+        "Material milestone failure",
+        "Unexpected dilutive financing",
+        "Liquidity falls below the research threshold"
+      ],
+      "permanentLossCauses": [
+        "Insolvency",
+        "Repeated dilution without value creation",
+        "Technology or product obsolescence"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Pulse Robotics executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Pulse Robotics makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Pulse Robotics misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "months",
+      "enterpriseValue": 2090000000,
+      "revenueGrowth": 29,
+      "earningsGrowth": null,
+      "freeCashFlow": 12000000,
+      "cash": 177000000,
+      "debt": 87000000,
+      "priceToSales": 4.6,
+      "priceToEarnings": null,
+      "estimateRevisions": null,
+      "insiderNetBuying": null,
+      "institutionalOwnership": 46,
+      "shortInterest": 8.1,
+      "daysToCover": 2.7,
+      "publicFloat": 97000000,
+      "relativeVolume": 1.1,
+      "upcomingEarnings": null,
+      "recentFilings": [],
+      "shelfRegistration": false,
+      "convertibleDebt": false,
+      "reverseSplitCount": 0,
+      "dilutionRisk": "low",
+      "otc": false,
+      "bankrupt": false,
+      "halted": false,
+      "retailAttention": 48,
+      "optionsActivity": 65,
+      "searchMomentum": 66,
+      "socialMomentum": 67,
+      "borrowPressure": null,
+      "disqualified": false
+    },
+    {
+      "id": "stock-helix",
+      "kind": "stock",
+      "symbol": "HLXB",
+      "name": "Helix BioFoundry",
+      "category": "Biotechnology",
+      "sector": "Biotechnology",
+      "exchange": "NASDAQ",
+      "price": 2.14,
+      "marketCap": 190000000,
+      "change24h": 12.6,
+      "volume24h": 8400000,
+      "avgDailyDollarVolume": 14740320,
+      "momentum": 80.24,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 1.8755765718277313,
+          "volume": 1926000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 1.9274464189075904,
+          "volume": 2272680
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 2.0006402422418716,
+          "volume": 2619359.9999999995
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 2.0559130599538724,
+          "volume": 2966040
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 2.065672996830295,
+          "volume": 3312720
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 2.0319228592351113,
+          "volume": 1926000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 1.9849578133159387,
+          "volume": 2272680
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 1.963665999269526,
+          "volume": 2619359.9999999995
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 1.9902415772943303,
+          "volume": 2966040
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 2.055753008659759,
+          "volume": 3312720
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 2.125950775188526,
+          "volume": 1926000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 2.1635380763872796,
+          "volume": 2272680
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 2.1524230172709573,
+          "volume": 2619359.9999999995
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 2.108182338614842,
+          "volume": 2966040
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 2.0679326649443057,
+          "volume": 3312720
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 2.0661954758597436,
+          "volume": 1926000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 2.112449566403987,
+          "volume": 2272680
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 2.1849674749948216,
+          "volume": 2619359.9999999995
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 2.244943732289985,
+          "volume": 2966040
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 2.2617280586371264,
+          "volume": 3312720
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 2.2327556618249558,
+          "volume": 1926000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 2.185214989319783,
+          "volume": 2272680
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 2.15836848163087,
+          "volume": 2619359.9999999995
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 2.178022230053783,
+          "volume": 2966040
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 2.239745605034391,
+          "volume": 3312720
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 2.311752266301253,
+          "volume": 1926000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 2.3555691823073484,
+          "volume": 2272680
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 2.3510536605090424,
+          "volume": 2619359.9999999995
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 2.309491102572817,
+          "volume": 2966040
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 2.2662566890970592,
+          "volume": 3312720
+        }
+      ],
+      "score": {
+        "opportunity": 25,
+        "risk": 100,
+        "riskGrade": "F",
+        "parts": [
+          {
+            "label": "Financial quality",
+            "score": 31,
+            "weight": 0.2,
+            "explanation": "Cash generation, balance-sheet strength, and operating quality."
+          },
+          {
+            "label": "Valuation",
+            "score": 29,
+            "weight": 0.15,
+            "explanation": "Valuation relative to fundamentals, not the nominal share price."
+          },
+          {
+            "label": "Growth",
+            "score": 55,
+            "weight": 0.15,
+            "explanation": "Revenue and earnings trajectory."
+          },
+          {
+            "label": "Catalyst strength",
+            "score": 79,
+            "weight": 0.15,
+            "explanation": "Specific, time-bound events with credible evidence."
+          },
+          {
+            "label": "Market momentum",
+            "score": 90,
+            "weight": 0.1,
+            "explanation": "Price and volume trend without assuming persistence."
+          },
+          {
+            "label": "Potential squeeze conditions",
+            "score": 92,
+            "weight": 0.1,
+            "explanation": "Short interest, float, days to cover, and attention; no squeeze is predicted."
+          },
+          {
+            "label": "Liquidity",
+            "score": 61,
+            "weight": 0.1,
+            "explanation": "Ability to trade without excessive price impact."
+          },
+          {
+            "label": "Data quality",
+            "score": 60,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [
+          {
+            "label": "Dilution",
+            "points": 18,
+            "explanation": "Potential new shares or convertibles can reduce each holder’s ownership."
+          },
+          {
+            "label": "Missing data",
+            "points": 5,
+            "explanation": "Incomplete inputs reduce confidence in the ranking."
+          },
+          {
+            "label": "Extreme volatility",
+            "points": 10,
+            "explanation": "Large swings increase loss and timing risk."
+          }
+        ],
+        "explanation": "Stock Opportunity Score is a weighted research score, reduced by 33 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current quote or company record.",
+        "Severe dilution risk"
+      ],
+      "catalysts": [
+        "Illustrative product milestone",
+        "Illustrative quarterly update"
+      ],
+      "risks": [
+        "Execution risk",
+        "Financing and dilution risk",
+        "Speculative valuation"
+      ],
+      "bullCase": "The fictional company converts its pipeline into durable revenue while funding needs remain controlled.",
+      "bearCase": "Execution delays and expensive financing outweigh attention and headline growth.",
+      "thesisNeeds": [
+        "Revenue growth must remain durable",
+        "Cash runway must extend beyond the next milestone",
+        "Relative volume must be supported by new evidence"
+      ],
+      "invalidationPoints": [
+        "Material milestone failure",
+        "Unexpected dilutive financing",
+        "Liquidity falls below the research threshold"
+      ],
+      "permanentLossCauses": [
+        "Insolvency",
+        "Repeated dilution without value creation",
+        "Technology or product obsolescence"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Helix BioFoundry executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Helix BioFoundry makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Helix BioFoundry misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "months",
+      "enterpriseValue": 142000000,
+      "revenueGrowth": 14,
+      "earningsGrowth": null,
+      "freeCashFlow": -66000000,
+      "cash": 92000000,
+      "debt": 44000000,
+      "priceToSales": 12.7,
+      "priceToEarnings": null,
+      "estimateRevisions": null,
+      "insiderNetBuying": null,
+      "institutionalOwnership": 49,
+      "shortInterest": 29.3,
+      "daysToCover": 6.8,
+      "publicFloat": 41000000,
+      "relativeVolume": 4.2,
+      "upcomingEarnings": null,
+      "recentFilings": [],
+      "shelfRegistration": true,
+      "convertibleDebt": false,
+      "reverseSplitCount": 0,
+      "dilutionRisk": "high",
+      "otc": false,
+      "bankrupt": false,
+      "halted": false,
+      "retailAttention": 93,
+      "optionsActivity": 70,
+      "searchMomentum": 70,
+      "socialMomentum": 73,
+      "borrowPressure": null,
+      "disqualified": false
+    },
+    {
+      "id": "stock-tidal",
+      "kind": "stock",
+      "symbol": "TDAL",
+      "name": "Tidal Grid Storage",
+      "category": "Energy storage",
+      "sector": "Energy storage",
+      "exchange": "NASDAQ",
+      "price": 9.76,
+      "marketCap": 910000000,
+      "change24h": 2.1,
+      "volume24h": 1250000,
+      "avgDailyDollarVolume": 10004000,
+      "momentum": 55.04,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 8.786151665815247,
+          "volume": 8784000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 9.117781420444494,
+          "volume": 10365120
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 9.333913116439586,
+          "volume": 11946239.999999998
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 9.33208599801115,
+          "volume": 13527360
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 9.15156669712025,
+          "volume": 15108480
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 8.94781616573658,
+          "volume": 8784000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 8.891401428142974,
+          "volume": 10365120
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 9.057084632681686,
+          "volume": 11946239.999999998
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 9.375209078443959,
+          "volume": 13527360
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 9.676993379147827,
+          "volume": 15108480
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 9.804281302996207,
+          "volume": 8784000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 9.712382621982929,
+          "volume": 10365120
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 9.499132864718236,
+          "volume": 11946239.999999998
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 9.341275912673922,
+          "volume": 13527360
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 9.37953655993219,
+          "volume": 15108480
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 9.627114429755439,
+          "volume": 8784000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 9.961100939625208,
+          "volume": 10365120
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 10.20240042018623,
+          "volume": 11946239.999999998
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 10.23218680199376,
+          "volume": 13527360
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 10.069170086537447,
+          "volume": 15108480
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 9.857430196214573,
+          "volume": 8784000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 9.772729223813224,
+          "volume": 10365120
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 9.908222398860278,
+          "volume": 11946239.999999998
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 10.213884041230784,
+          "volume": 13527360
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 10.529036683603033,
+          "volume": 15108480
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 10.686831350331861,
+          "volume": 8784000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 10.62274085022769,
+          "volume": 10365120
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 10.416518484537006,
+          "volume": 11946239.999999998
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 10.240338584043249,
+          "volume": 13527360
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 10.246840412204373,
+          "volume": 15108480
+        }
+      ],
+      "score": {
+        "opportunity": 55.9,
+        "risk": 89,
+        "riskGrade": "F",
+        "parts": [
+          {
+            "label": "Financial quality",
+            "score": 57,
+            "weight": 0.2,
+            "explanation": "Cash generation, balance-sheet strength, and operating quality."
+          },
+          {
+            "label": "Valuation",
+            "score": 64,
+            "weight": 0.15,
+            "explanation": "Valuation relative to fundamentals, not the nominal share price."
+          },
+          {
+            "label": "Growth",
+            "score": 77,
+            "weight": 0.15,
+            "explanation": "Revenue and earnings trajectory."
+          },
+          {
+            "label": "Catalyst strength",
+            "score": 69,
+            "weight": 0.15,
+            "explanation": "Specific, time-bound events with credible evidence."
+          },
+          {
+            "label": "Market momentum",
+            "score": 62,
+            "weight": 0.1,
+            "explanation": "Price and volume trend without assuming persistence."
+          },
+          {
+            "label": "Potential squeeze conditions",
+            "score": 61,
+            "weight": 0.1,
+            "explanation": "Short interest, float, days to cover, and attention; no squeeze is predicted."
+          },
+          {
+            "label": "Liquidity",
+            "score": 72,
+            "weight": 0.1,
+            "explanation": "Ability to trade without excessive price impact."
+          },
+          {
+            "label": "Data quality",
+            "score": 69,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [
+          {
+            "label": "Dilution",
+            "points": 5,
+            "explanation": "Potential new shares or convertibles can reduce each holder’s ownership."
+          },
+          {
+            "label": "Excessive debt",
+            "points": 5,
+            "explanation": "Debt can impair flexibility or create refinancing risk."
+          }
+        ],
+        "explanation": "Stock Opportunity Score is a weighted research score, reduced by 10 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current quote or company record."
+      ],
+      "catalysts": [
+        "Illustrative product milestone",
+        "Illustrative quarterly update"
+      ],
+      "risks": [
+        "Execution risk",
+        "Financing and dilution risk",
+        "Speculative valuation"
+      ],
+      "bullCase": "The fictional company converts its pipeline into durable revenue while funding needs remain controlled.",
+      "bearCase": "Execution delays and expensive financing outweigh attention and headline growth.",
+      "thesisNeeds": [
+        "Revenue growth must remain durable",
+        "Cash runway must extend beyond the next milestone",
+        "Relative volume must be supported by new evidence"
+      ],
+      "invalidationPoints": [
+        "Material milestone failure",
+        "Unexpected dilutive financing",
+        "Liquidity falls below the research threshold"
+      ],
+      "permanentLossCauses": [
+        "Insolvency",
+        "Repeated dilution without value creation",
+        "Technology or product obsolescence"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Tidal Grid Storage executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Tidal Grid Storage makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Tidal Grid Storage misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "months",
+      "enterpriseValue": 950000000,
+      "revenueGrowth": 47,
+      "earningsGrowth": null,
+      "freeCashFlow": -24000000,
+      "cash": 81000000,
+      "debt": 121000000,
+      "priceToSales": 3.9,
+      "priceToEarnings": null,
+      "estimateRevisions": null,
+      "insiderNetBuying": null,
+      "institutionalOwnership": 52,
+      "shortInterest": 14.6,
+      "daysToCover": 4.1,
+      "publicFloat": 72000000,
+      "relativeVolume": 1.5,
+      "upcomingEarnings": null,
+      "recentFilings": [],
+      "shelfRegistration": false,
+      "convertibleDebt": true,
+      "reverseSplitCount": 0,
+      "dilutionRisk": "medium",
+      "otc": false,
+      "bankrupt": false,
+      "halted": false,
+      "retailAttention": 58,
+      "optionsActivity": 75,
+      "searchMomentum": 74,
+      "socialMomentum": 79,
+      "borrowPressure": null,
+      "disqualified": false
+    },
+    {
+      "id": "bitcoin",
+      "kind": "crypto",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "category": "Store of value",
+      "exchange": "Multiple exchanges",
+      "price": 101200,
+      "marketCap": 2010000000000,
+      "change24h": 1.8,
+      "volume24h": 48000000000,
+      "avgDailyDollarVolume": 48000000000,
+      "momentum": 55.6,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar demo snapshot — illustrative values",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 88550.03468839741,
+          "volume": 91080000000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 90320.38114920983,
+          "volume": 107474400000
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 93637.55095160485,
+          "volume": 123868799999.99998
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 96739.39035111545,
+          "volume": 140263200000
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 98003.76387041734,
+          "volume": 156657600000
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 97003.34542758188,
+          "volume": 91080000000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 94783.48647125365,
+          "volume": 107474400000
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 93182.47779025251,
+          "volume": 123868799999.99998
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 93636.20372260752,
+          "volume": 140263200000
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 96244.46054750237,
+          "volume": 156657600000
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 99706.06410644078,
+          "volume": 91080000000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 102164.94282432331,
+          "volume": 107474400000
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 102417.04542966242,
+          "volume": 123868799999.99998
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 100693.27346353771,
+          "volume": 140263200000
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 98509.33790351213,
+          "volume": 156657600000
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 97680.17040456843,
+          "volume": 91080000000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 99139.76674941144,
+          "volume": 107474400000
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 102333.8575105709,
+          "volume": 123868799999.99998
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 105580.32090304558,
+          "volume": 140263200000
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 107162.97991793534,
+          "volume": 156657600000
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 106447.54381364488,
+          "volume": 91080000000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 104294.05470639362,
+          "volume": 107474400000
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 102497.64649153083,
+          "volume": 123868799999.99998
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 102621.26175694389,
+          "volume": 140263200000
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 104979.35074118027,
+          "volume": 156657600000
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 108433.40054384107,
+          "volume": 91080000000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 111132.25140836359,
+          "volume": 107474400000
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 111715.81053969948,
+          "volume": 123868799999.99998
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 110199.45037676013,
+          "volume": 140263200000
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 107964.01268738268,
+          "volume": 156657600000
+        }
+      ],
+      "score": {
+        "opportunity": 87,
+        "risk": 45,
+        "riskGrade": "C",
+        "parts": [
+          {
+            "label": "Adoption & network usage",
+            "score": 91,
+            "weight": 0.2,
+            "explanation": "Usage, activity, and demonstrated demand."
+          },
+          {
+            "label": "Liquidity",
+            "score": 98,
+            "weight": 0.15,
+            "explanation": "Trading depth and exchange access."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 90,
+            "weight": 0.15,
+            "explanation": "Supply, inflation, unlocks, and concentration."
+          },
+          {
+            "label": "Developer activity",
+            "score": 82,
+            "weight": 0.15,
+            "explanation": "Sustained protocol development and maintenance."
+          },
+          {
+            "label": "Security",
+            "score": 91,
+            "weight": 0.15,
+            "explanation": "Design resilience and incident history."
+          },
+          {
+            "label": "Catalysts",
+            "score": 70,
+            "weight": 0.1,
+            "explanation": "Credible adoption or protocol milestones."
+          },
+          {
+            "label": "Market momentum",
+            "score": 64,
+            "weight": 0.05,
+            "explanation": "Price trend; deliberately a small weight."
+          },
+          {
+            "label": "Data quality",
+            "score": 88,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Established Crypto Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current market quote."
+      ],
+      "catalysts": [
+        "Illustrative network upgrade",
+        "Illustrative adoption milestone"
+      ],
+      "risks": [
+        "Protocol risk",
+        "Regulatory uncertainty",
+        "Large market drawdowns"
+      ],
+      "bullCase": "Network usage grows faster than supply-related selling pressure.",
+      "bearCase": "Usage, fees, and developer activity fail to justify valuation.",
+      "thesisNeeds": [
+        "Sustained network usage",
+        "Deep exchange liquidity",
+        "No thesis-changing security failure"
+      ],
+      "invalidationPoints": [
+        "Persistent activity decline",
+        "Critical protocol exploit",
+        "Adoption catalyst fails"
+      ],
+      "permanentLossCauses": [
+        "Protocol failure",
+        "Irrecoverable security compromise",
+        "Demand permanently migrates elsewhere"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Bitcoin executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Bitcoin makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Bitcoin misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "years",
+      "marketCapRank": 1,
+      "liquidityScore": 80,
+      "activeAddresses": null,
+      "transactionActivity": null,
+      "developerActivity": null,
+      "protocolRevenue": null,
+      "totalValueLocked": null,
+      "totalSupply": 21000000,
+      "circulatingSupply": 19850000,
+      "inflationRate": null,
+      "nextUnlock": null,
+      "holderConcentration": null,
+      "exchangeConcentration": null,
+      "securityIncidents": null,
+      "regulatoryRisk": "unknown",
+      "athDrawdown": -7.4
+    },
+    {
+      "id": "ethereum",
+      "kind": "crypto",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "category": "Smart-contract platform",
+      "exchange": "Multiple exchanges",
+      "price": 3280,
+      "marketCap": 395000000000,
+      "change24h": 2.7,
+      "volume24h": 22000000000,
+      "avgDailyDollarVolume": 22000000000,
+      "momentum": 57.4,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar demo snapshot — illustrative values",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 2923.2014290135503,
+          "volume": 2952000000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 3034.3953018346233,
+          "volume": 3483360000
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 3126.1367951132556,
+          "volume": 4014719999.9999995
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 3151.568032388757,
+          "volume": 4546080000
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 3106.9492803654334,
+          "volume": 5077440000
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 3034.090704803183,
+          "volume": 2952000000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 2993.1653737895344,
+          "volume": 3483360000
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 3023.5818116873706,
+          "volume": 4014719999.9999995
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 3118.3586660745405,
+          "volume": 4546080000
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 3228.6643215437084,
+          "volume": 5077440000
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 3295.569583389962,
+          "volume": 2952000000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 3288.366296886904,
+          "volume": 3483360000
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 3224.5352782167206,
+          "volume": 4014719999.9999995
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 3158.3794403210472,
+          "volume": 4546080000
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 3145.7134063088374,
+          "volume": 5077440000
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 3207.570135625948,
+          "volume": 2952000000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 3316.524274148568,
+          "volume": 3483360000
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 3414.52544901178,
+          "volume": 4014719999.9999995
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 3450.645435320129,
+          "volume": 4546080000
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 3414.1941569677324,
+          "volume": 5077440000
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 3341.670892375694,
+          "volume": 2952000000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 3293.030674182882,
+          "volume": 3483360000
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 3312.6986204127024,
+          "volume": 4014719999.9999995
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 3400.6825690108917,
+          "volume": 4546080000
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 3512.5679812332132,
+          "volume": 5077440000
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 3588.398427947474,
+          "volume": 2952000000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 3591.662166534406,
+          "volume": 3483360000
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 3533.033846022801,
+          "volume": 4014719999.9999995
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 3463.433332785521,
+          "volume": 4546080000
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 3440.9151448360008,
+          "volume": 5077440000
+        }
+      ],
+      "score": {
+        "opportunity": 86.4,
+        "risk": 50,
+        "riskGrade": "D",
+        "parts": [
+          {
+            "label": "Adoption & network usage",
+            "score": 90,
+            "weight": 0.2,
+            "explanation": "Usage, activity, and demonstrated demand."
+          },
+          {
+            "label": "Liquidity",
+            "score": 94,
+            "weight": 0.15,
+            "explanation": "Trading depth and exchange access."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 79,
+            "weight": 0.15,
+            "explanation": "Supply, inflation, unlocks, and concentration."
+          },
+          {
+            "label": "Developer activity",
+            "score": 96,
+            "weight": 0.15,
+            "explanation": "Sustained protocol development and maintenance."
+          },
+          {
+            "label": "Security",
+            "score": 86,
+            "weight": 0.15,
+            "explanation": "Design resilience and incident history."
+          },
+          {
+            "label": "Catalysts",
+            "score": 78,
+            "weight": 0.1,
+            "explanation": "Credible adoption or protocol milestones."
+          },
+          {
+            "label": "Market momentum",
+            "score": 60,
+            "weight": 0.05,
+            "explanation": "Price trend; deliberately a small weight."
+          },
+          {
+            "label": "Data quality",
+            "score": 86,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Established Crypto Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current market quote."
+      ],
+      "catalysts": [
+        "Illustrative network upgrade",
+        "Illustrative adoption milestone"
+      ],
+      "risks": [
+        "Protocol risk",
+        "Regulatory uncertainty",
+        "Large market drawdowns"
+      ],
+      "bullCase": "Network usage grows faster than supply-related selling pressure.",
+      "bearCase": "Usage, fees, and developer activity fail to justify valuation.",
+      "thesisNeeds": [
+        "Sustained network usage",
+        "Deep exchange liquidity",
+        "No thesis-changing security failure"
+      ],
+      "invalidationPoints": [
+        "Persistent activity decline",
+        "Critical protocol exploit",
+        "Adoption catalyst fails"
+      ],
+      "permanentLossCauses": [
+        "Protocol failure",
+        "Irrecoverable security compromise",
+        "Demand permanently migrates elsewhere"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Ethereum executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Ethereum makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Ethereum misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "years",
+      "marketCapRank": 2,
+      "liquidityScore": 82,
+      "activeAddresses": null,
+      "transactionActivity": null,
+      "developerActivity": null,
+      "protocolRevenue": null,
+      "totalValueLocked": null,
+      "totalSupply": 120500000,
+      "circulatingSupply": 120500000,
+      "inflationRate": null,
+      "nextUnlock": null,
+      "holderConcentration": null,
+      "exchangeConcentration": null,
+      "securityIncidents": null,
+      "regulatoryRisk": "unknown",
+      "athDrawdown": -33.1
+    },
+    {
+      "id": "solana",
+      "kind": "crypto",
+      "symbol": "SOL",
+      "name": "Solana",
+      "category": "Smart-contract platform",
+      "exchange": "Multiple exchanges",
+      "price": 176.4,
+      "marketCap": 86000000000,
+      "change24h": 5.1,
+      "volume24h": 5800000000,
+      "avgDailyDollarVolume": 5800000000,
+      "momentum": 62.2,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar demo snapshot — illustrative values",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 163.1181112853677,
+          "volume": 158760000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 167.4674197311814,
+          "volume": 187336800
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 167.99000304286318,
+          "volume": 215913599.99999997
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 165.03427520747428,
+          "volume": 244490400
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 161.21041674792983,
+          "volume": 273067200
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 159.6931088058199,
+          "volume": 158760000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 162.1572015550582,
+          "volume": 187336800
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 167.68864542230594,
+          "volume": 215913599.99999997
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 173.37885043254948,
+          "volume": 244490400
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 176.21599241888177,
+          "volume": 273067200
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 175.0434471086316,
+          "volume": 158760000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 171.31188329843425,
+          "volume": 187336800
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 168.13596767444287,
+          "volume": 215913599.99999997
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 168.26905753439453,
+          "volume": 244490400
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 172.3128343902524,
+          "volume": 273067200
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 178.3260614796932,
+          "volume": 158760000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 183.0868700198515,
+          "volume": 187336800
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 184.18777448567803,
+          "volume": 215913599.99999997
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 181.60113641288197,
+          "volume": 244490400
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 177.6971362673215,
+          "volume": 273067200
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 175.70256720009186,
+          "volume": 158760000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 177.6026177062109,
+          "volume": 187336800
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 182.85000582350352,
+          "volume": 215913599.99999997
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 188.72084839655918,
+          "volume": 244490400
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 192.08586195784707,
+          "volume": 273067200
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 191.44517454552113,
+          "volume": 158760000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 187.9036151665913,
+          "volume": 187336800
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 184.45230041461275,
+          "volume": 215913599.99999997
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 184.0236654516503,
+          "volume": 244490400
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 187.58465250186526,
+          "volume": 273067200
+        }
+      ],
+      "score": {
+        "opportunity": 80.3,
+        "risk": 59,
+        "riskGrade": "D",
+        "parts": [
+          {
+            "label": "Adoption & network usage",
+            "score": 84,
+            "weight": 0.2,
+            "explanation": "Usage, activity, and demonstrated demand."
+          },
+          {
+            "label": "Liquidity",
+            "score": 88,
+            "weight": 0.15,
+            "explanation": "Trading depth and exchange access."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 68,
+            "weight": 0.15,
+            "explanation": "Supply, inflation, unlocks, and concentration."
+          },
+          {
+            "label": "Developer activity",
+            "score": 88,
+            "weight": 0.15,
+            "explanation": "Sustained protocol development and maintenance."
+          },
+          {
+            "label": "Security",
+            "score": 72,
+            "weight": 0.15,
+            "explanation": "Design resilience and incident history."
+          },
+          {
+            "label": "Catalysts",
+            "score": 82,
+            "weight": 0.1,
+            "explanation": "Credible adoption or protocol milestones."
+          },
+          {
+            "label": "Market momentum",
+            "score": 76,
+            "weight": 0.05,
+            "explanation": "Price trend; deliberately a small weight."
+          },
+          {
+            "label": "Data quality",
+            "score": 82,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Established Crypto Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current market quote."
+      ],
+      "catalysts": [
+        "Illustrative network upgrade",
+        "Illustrative adoption milestone"
+      ],
+      "risks": [
+        "Protocol risk",
+        "Regulatory uncertainty",
+        "Large market drawdowns"
+      ],
+      "bullCase": "Network usage grows faster than supply-related selling pressure.",
+      "bearCase": "Usage, fees, and developer activity fail to justify valuation.",
+      "thesisNeeds": [
+        "Sustained network usage",
+        "Deep exchange liquidity",
+        "No thesis-changing security failure"
+      ],
+      "invalidationPoints": [
+        "Persistent activity decline",
+        "Critical protocol exploit",
+        "Adoption catalyst fails"
+      ],
+      "permanentLossCauses": [
+        "Protocol failure",
+        "Irrecoverable security compromise",
+        "Demand permanently migrates elsewhere"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Solana executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Solana makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Solana misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "years",
+      "marketCapRank": 5,
+      "liquidityScore": 84,
+      "activeAddresses": null,
+      "transactionActivity": null,
+      "developerActivity": null,
+      "protocolRevenue": null,
+      "totalValueLocked": null,
+      "totalSupply": 595000000,
+      "circulatingSupply": 488000000,
+      "inflationRate": null,
+      "nextUnlock": null,
+      "holderConcentration": null,
+      "exchangeConcentration": null,
+      "securityIncidents": null,
+      "regulatoryRisk": "unknown",
+      "athDrawdown": -39.6
+    },
+    {
+      "id": "chainlink",
+      "kind": "crypto",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "category": "Oracle network",
+      "exchange": "Multiple exchanges",
+      "price": 22.1,
+      "marketCap": 14100000000,
+      "change24h": 3.9,
+      "volume24h": 1100000000,
+      "avgDailyDollarVolume": 1100000000,
+      "momentum": 59.8,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar demo snapshot — illustrative values",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 20.877234789629984,
+          "volume": 19890000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 20.83876151127846,
+          "volume": 23470200
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 20.413285364948447,
+          "volume": 27050399.999999996
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 19.963694516435748,
+          "volume": 30630600
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 19.86855767997267,
+          "volume": 34210800
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 20.275960387276882,
+          "volume": 19890000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 21.007212595663106,
+          "volume": 23470200
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 21.673041616664875,
+          "volume": 27050399.999999996
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 21.926716089959914,
+          "volume": 30630600
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 21.68950752333858,
+          "volume": 34210800
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 21.20188337508466,
+          "volume": 19890000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 20.867143454771156,
+          "volume": 23470200
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 20.98917483515864,
+          "volume": 27050399.999999996
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 21.574849745084336,
+          "volume": 30630600
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 22.329556913107506,
+          "volume": 34210800
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 22.848772098912647,
+          "volume": 19890000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 22.881099365640157,
+          "volume": 23470200
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 22.491740905671627,
+          "volume": 27050399.999999996
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 22.020099414150334,
+          "volume": 30630600
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 21.859082002404808,
+          "volume": 34210800
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 22.199612946082265,
+          "volume": 19890000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 22.906485465141103,
+          "volume": 23470200
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 23.606279727039404,
+          "volume": 27050399.999999996
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 23.93017852519391,
+          "volume": 30630600
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 23.753790106906102,
+          "volume": 34210800
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 23.278033721461185,
+          "volume": 19890000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 22.898492183706303,
+          "volume": 23470200
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 22.94818475003843,
+          "volume": 27050399.999999996
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 23.48102185316898,
+          "volume": 30630600
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 24.23674992520477,
+          "volume": 34210800
+        }
+      ],
+      "score": {
+        "opportunity": 79.5,
+        "risk": 57,
+        "riskGrade": "D",
+        "parts": [
+          {
+            "label": "Adoption & network usage",
+            "score": 81,
+            "weight": 0.2,
+            "explanation": "Usage, activity, and demonstrated demand."
+          },
+          {
+            "label": "Liquidity",
+            "score": 82,
+            "weight": 0.15,
+            "explanation": "Trading depth and exchange access."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 66,
+            "weight": 0.15,
+            "explanation": "Supply, inflation, unlocks, and concentration."
+          },
+          {
+            "label": "Developer activity",
+            "score": 87,
+            "weight": 0.15,
+            "explanation": "Sustained protocol development and maintenance."
+          },
+          {
+            "label": "Security",
+            "score": 84,
+            "weight": 0.15,
+            "explanation": "Design resilience and incident history."
+          },
+          {
+            "label": "Catalysts",
+            "score": 80,
+            "weight": 0.1,
+            "explanation": "Credible adoption or protocol milestones."
+          },
+          {
+            "label": "Market momentum",
+            "score": 69,
+            "weight": 0.05,
+            "explanation": "Price trend; deliberately a small weight."
+          },
+          {
+            "label": "Data quality",
+            "score": 79,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Established Crypto Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current market quote."
+      ],
+      "catalysts": [
+        "Illustrative network upgrade",
+        "Illustrative adoption milestone"
+      ],
+      "risks": [
+        "Protocol risk",
+        "Regulatory uncertainty",
+        "Large market drawdowns"
+      ],
+      "bullCase": "Network usage grows faster than supply-related selling pressure.",
+      "bearCase": "Usage, fees, and developer activity fail to justify valuation.",
+      "thesisNeeds": [
+        "Sustained network usage",
+        "Deep exchange liquidity",
+        "No thesis-changing security failure"
+      ],
+      "invalidationPoints": [
+        "Persistent activity decline",
+        "Critical protocol exploit",
+        "Adoption catalyst fails"
+      ],
+      "permanentLossCauses": [
+        "Protocol failure",
+        "Irrecoverable security compromise",
+        "Demand permanently migrates elsewhere"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Chainlink executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Chainlink makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Chainlink misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "years",
+      "marketCapRank": 14,
+      "liquidityScore": 86,
+      "activeAddresses": null,
+      "transactionActivity": null,
+      "developerActivity": null,
+      "protocolRevenue": null,
+      "totalValueLocked": null,
+      "totalSupply": 1000000000,
+      "circulatingSupply": 638000000,
+      "inflationRate": null,
+      "nextUnlock": null,
+      "holderConcentration": null,
+      "exchangeConcentration": null,
+      "securityIncidents": null,
+      "regulatoryRisk": "unknown",
+      "athDrawdown": -57.3
+    },
+    {
+      "id": "avalanche",
+      "kind": "crypto",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "category": "Smart-contract platform",
+      "exchange": "Multiple exchanges",
+      "price": 38.7,
+      "marketCap": 16000000000,
+      "change24h": -0.8,
+      "volume24h": 620000000,
+      "avgDailyDollarVolume": 620000000,
+      "momentum": 50.4,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar demo snapshot — illustrative values",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 36.097814879492816,
+          "volume": 34830000
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 35.28431123908099,
+          "volume": 41099400
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 34.57802626480233,
+          "volume": 47368799.99999999
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 34.58920838455061,
+          "volume": 53638200
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 35.46157413898083,
+          "volume": 59907600
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 36.77885671941793,
+          "volume": 34830000
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 37.835482827412875,
+          "volume": 41099400
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 38.095370639487136,
+          "volume": 47368799.99999999
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 37.54051619792885,
+          "volume": 53638200
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 36.68270045692636,
+          "volume": 59907600
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 36.230704495087245,
+          "volume": 34830000
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 36.629425696522006,
+          "volume": 41099400
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 37.77058390313365,
+          "volume": 47368799.99999999
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 39.063130422818986,
+          "volume": 53638200
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 39.817576543030476,
+          "volume": 59907600
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 39.69433251798913,
+          "volume": 34830000
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 38.92452528465251,
+          "volume": 41099400
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 38.159708523303934,
+          "volume": 47368799.99999999
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 38.04819086740273,
+          "volume": 53638200
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 38.81347420019882,
+          "volume": 59907600
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 40.108921894904206,
+          "volume": 34830000
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 41.243158754324746,
+          "volume": 41099400
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 41.62963668184684,
+          "volume": 47368799.99999999
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 41.168036689623676,
+          "volume": 53638200
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 40.30950116792349,
+          "volume": 59907600
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 39.76327923165839,
+          "volume": 34830000
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 40.03553856157242,
+          "volume": 41099400
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 41.10023063928491,
+          "volume": 47368799.99999999
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 42.41602875676992,
+          "volume": 53638200
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 43.278324885356405,
+          "volume": 59907600
+        }
+      ],
+      "score": {
+        "opportunity": 71.9,
+        "risk": 63,
+        "riskGrade": "D",
+        "parts": [
+          {
+            "label": "Adoption & network usage",
+            "score": 70,
+            "weight": 0.2,
+            "explanation": "Usage, activity, and demonstrated demand."
+          },
+          {
+            "label": "Liquidity",
+            "score": 76,
+            "weight": 0.15,
+            "explanation": "Trading depth and exchange access."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 63,
+            "weight": 0.15,
+            "explanation": "Supply, inflation, unlocks, and concentration."
+          },
+          {
+            "label": "Developer activity",
+            "score": 79,
+            "weight": 0.15,
+            "explanation": "Sustained protocol development and maintenance."
+          },
+          {
+            "label": "Security",
+            "score": 78,
+            "weight": 0.15,
+            "explanation": "Design resilience and incident history."
+          },
+          {
+            "label": "Catalysts",
+            "score": 73,
+            "weight": 0.1,
+            "explanation": "Credible adoption or protocol milestones."
+          },
+          {
+            "label": "Market momentum",
+            "score": 48,
+            "weight": 0.05,
+            "explanation": "Price trend; deliberately a small weight."
+          },
+          {
+            "label": "Data quality",
+            "score": 75,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and source reliability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Established Crypto Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — not a current market quote."
+      ],
+      "catalysts": [
+        "Illustrative network upgrade",
+        "Illustrative adoption milestone"
+      ],
+      "risks": [
+        "Protocol risk",
+        "Regulatory uncertainty",
+        "Large market drawdowns"
+      ],
+      "bullCase": "Network usage grows faster than supply-related selling pressure.",
+      "bearCase": "Usage, fees, and developer activity fail to justify valuation.",
+      "thesisNeeds": [
+        "Sustained network usage",
+        "Deep exchange liquidity",
+        "No thesis-changing security failure"
+      ],
+      "invalidationPoints": [
+        "Persistent activity decline",
+        "Critical protocol exploit",
+        "Adoption catalyst fails"
+      ],
+      "permanentLossCauses": [
+        "Protocol failure",
+        "Irrecoverable security compromise",
+        "Demand permanently migrates elsewhere"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "Avalanche executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "Avalanche makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "Avalanche misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "years",
+      "marketCapRank": 12,
+      "liquidityScore": 88,
+      "activeAddresses": null,
+      "transactionActivity": null,
+      "developerActivity": null,
+      "protocolRevenue": null,
+      "totalValueLocked": null,
+      "totalSupply": 450000000,
+      "circulatingSupply": 414000000,
+      "inflationRate": null,
+      "nextUnlock": null,
+      "holderConcentration": null,
+      "exchangeConcentration": null,
+      "securityIncidents": null,
+      "regulatoryRisk": "unknown",
+      "athDrawdown": -73.5
+    },
+    {
+      "id": "meme-moonmutt",
+      "kind": "meme",
+      "symbol": "MUTT",
+      "name": "MoonMutt",
+      "category": "Meme coin",
+      "exchange": "Decentralized exchanges",
+      "chain": "Solana",
+      "price": 0.00082,
+      "marketCap": 38000000,
+      "change24h": 18.2,
+      "volume24h": 12000000,
+      "avgDailyDollarVolume": 12000000,
+      "momentum": 68.2,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional meme-token demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 0.0007702120168259848,
+          "volume": 738
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 0.0007557249725716431,
+          "volume": 870.8399999999999
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 0.0007382435519028051,
+          "volume": 1003.68
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 0.0007323342445560302,
+          "volume": 1136.52
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 0.0007450387911714685,
+          "volume": 1269.36
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 0.0007712953021460512,
+          "volume": 738
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 0.0007972297436530941,
+          "volume": 870.8399999999999
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 0.0008091775070475886,
+          "volume": 1003.68
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 0.0008025687998654669,
+          "volume": 1136.52
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 0.0007849001464266255,
+          "volume": 1269.36
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 0.0007708597842916981,
+          "volume": 738
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 0.0007727766601164682,
+          "volume": 870.8399999999999
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 0.0007926035508307025,
+          "volume": 1003.68
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 0.0008206472734080684,
+          "volume": 1136.52
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 0.0008418716623939884,
+          "volume": 1269.36
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 0.0008456748136353629,
+          "volume": 738
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 0.0008327829563397189,
+          "volume": 870.8399999999999
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 0.0008147782236369871,
+          "volume": 1003.68
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 0.0008065673881182575,
+          "volume": 1136.52
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 0.0008166887556188424,
+          "volume": 1269.36
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 0.0008417601448283066,
+          "volume": 738
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 0.0008686781455461797,
+          "volume": 870.8399999999999
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 0.0008831385912457613,
+          "volume": 1003.68
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 0.0008789378216137359,
+          "volume": 1136.52
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 0.0008620066032384579,
+          "volume": 1269.36
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 0.0008465536576514857,
+          "volume": 738
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 0.0008458264617509666,
+          "volume": 870.8399999999999
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 0.0008634970960866705,
+          "volume": 1003.68
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 0.0008912744800645874,
+          "volume": 1136.52
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 0.000914295634499559,
+          "volume": 1269.36
+        }
+      ],
+      "score": {
+        "opportunity": 69.9,
+        "risk": 76,
+        "riskGrade": "E",
+        "parts": [
+          {
+            "label": "Liquidity quality",
+            "score": 72,
+            "weight": 0.2,
+            "explanation": "Depth and durability of available liquidity."
+          },
+          {
+            "label": "Contract safety",
+            "score": 76,
+            "weight": 0.2,
+            "explanation": "Contract verification, permissions, taxes, and security signals."
+          },
+          {
+            "label": "Holder distribution",
+            "score": 64,
+            "weight": 0.15,
+            "explanation": "Concentration across holders and developer wallets."
+          },
+          {
+            "label": "Volume quality",
+            "score": 58,
+            "weight": 0.1,
+            "explanation": "Plausibility of volume relative to liquidity."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 67,
+            "weight": 0.1,
+            "explanation": "Supply controls, inflation, and unlock risks."
+          },
+          {
+            "label": "Market momentum",
+            "score": 84,
+            "weight": 0.1,
+            "explanation": "Price trend without treating momentum as safety."
+          },
+          {
+            "label": "Community momentum",
+            "score": 80,
+            "weight": 0.05,
+            "explanation": "Organic attention; never a call for coordinated buying."
+          },
+          {
+            "label": "Exchange availability",
+            "score": 48,
+            "weight": 0.05,
+            "explanation": "Breadth and quality of trading venues."
+          },
+          {
+            "label": "Data quality",
+            "score": 68,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and verifiability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Meme-Coin Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — fictional token and illustrative metrics.",
+        "Meme coins are never classified as safe."
+      ],
+      "catalysts": [
+        "Illustrative exchange listing",
+        "Illustrative community activity"
+      ],
+      "risks": [
+        "Extreme volatility",
+        "Liquidity can disappear",
+        "Attention may reverse without warning"
+      ],
+      "bullCase": "Organic attention persists while verifiable liquidity and distribution improve.",
+      "bearCase": "Momentum fades, concentrated holders sell, or liquidity proves less durable than reported.",
+      "thesisNeeds": [
+        "Liquidity remains verifiable",
+        "No adverse contract-permission change",
+        "Volume is organic rather than wash trading"
+      ],
+      "invalidationPoints": [
+        "Liquidity unlock or removal",
+        "Contract safety warning",
+        "Evidence of manipulated volume"
+      ],
+      "permanentLossCauses": [
+        "Rug pull or exploit",
+        "Irreversible loss of liquidity",
+        "Token becomes untradeable"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "MoonMutt executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "MoonMutt makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "MoonMutt misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "days",
+      "disqualified": false,
+      "tokenAgeDays": 300,
+      "fullyDilutedValuation": 41000000,
+      "liquidity": 4200000,
+      "volumeToLiquidity": 2.857142857142857,
+      "holders": 38000,
+      "top10Concentration": 36,
+      "developerWalletConcentration": 4.3,
+      "contractVerified": true,
+      "ownershipRenounced": false,
+      "mintAuthority": false,
+      "freezeAuthority": false,
+      "buyTax": 0,
+      "sellTax": 0,
+      "liquidityLocked": true,
+      "liquidityLockExpiration": null,
+      "audited": null,
+      "honeypot": false,
+      "rugPullRisk": false,
+      "largeWalletActivity": 50,
+      "socialMomentum": 66,
+      "exchangeListings": 3
+    },
+    {
+      "id": "meme-bytecat",
+      "kind": "meme",
+      "symbol": "BYTE",
+      "name": "ByteCat",
+      "category": "Meme coin",
+      "exchange": "Decentralized exchanges",
+      "chain": "Ethereum",
+      "price": 0.0034,
+      "marketCap": 72000000,
+      "change24h": 9.6,
+      "volume24h": 8600000,
+      "avgDailyDollarVolume": 8600000,
+      "momentum": 59.6,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional meme-token demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 0.003092946694194442,
+          "volume": 3060
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 0.0030258787562662467,
+          "volume": 3610.7999999999997
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 0.0030163716225110166,
+          "volume": 4161.599999999999
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 0.003083872361189984,
+          "volume": 4712.400000000001
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 0.003197753788576987,
+          "volume": 5263.2
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 0.0032972297486187196,
+          "volume": 3060
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 0.0033308812185047767,
+          "volume": 3610.7999999999997
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 0.003290091450085872,
+          "volume": 4161.599999999999
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 0.003214648997259229,
+          "volume": 4712.400000000001
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 0.003166875269281183,
+          "volume": 5263.2
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 0.0031911001291356745,
+          "volume": 3060
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 0.003284836467516653,
+          "volume": 3610.7999999999997
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 0.0034003974418735745,
+          "volume": 4161.599999999999
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 0.0034759047732890952,
+          "volume": 4712.400000000001
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 0.0034755250032812717,
+          "volume": 5263.2
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 0.003412770145709478,
+          "volume": 3060
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 0.0033417115203025383,
+          "volume": 3610.7999999999997
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 0.003321819959201168,
+          "volume": 4161.599999999999
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 0.0033792949887626166,
+          "volume": 4712.400000000001
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 0.003490028627373883,
+          "volume": 5263.2
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 0.0035952815638479966,
+          "volume": 3060
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 0.003639878305231223,
+          "volume": 3610.7999999999997
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 0.0036080849572216155,
+          "volume": 4161.599999999999
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 0.0035338401650210917,
+          "volume": 4712.400000000001
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 0.00347868656088447,
+          "volume": 5263.2
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 0.00349175276104934,
+          "volume": 3060
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 0.003577807557710074,
+          "volume": 3610.7999999999997
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 0.0036941590191426786,
+          "volume": 4161.599999999999
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 0.0037784148534105015,
+          "volume": 4712.400000000001
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 0.0037890529013508596,
+          "volume": 5263.2
+        }
+      ],
+      "score": {
+        "opportunity": 70.8,
+        "risk": 72,
+        "riskGrade": "E",
+        "parts": [
+          {
+            "label": "Liquidity quality",
+            "score": 79,
+            "weight": 0.2,
+            "explanation": "Depth and durability of available liquidity."
+          },
+          {
+            "label": "Contract safety",
+            "score": 78,
+            "weight": 0.2,
+            "explanation": "Contract verification, permissions, taxes, and security signals."
+          },
+          {
+            "label": "Holder distribution",
+            "score": 59,
+            "weight": 0.15,
+            "explanation": "Concentration across holders and developer wallets."
+          },
+          {
+            "label": "Volume quality",
+            "score": 70,
+            "weight": 0.1,
+            "explanation": "Plausibility of volume relative to liquidity."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 62,
+            "weight": 0.1,
+            "explanation": "Supply controls, inflation, and unlock risks."
+          },
+          {
+            "label": "Market momentum",
+            "score": 73,
+            "weight": 0.1,
+            "explanation": "Price trend without treating momentum as safety."
+          },
+          {
+            "label": "Community momentum",
+            "score": 72,
+            "weight": 0.05,
+            "explanation": "Organic attention; never a call for coordinated buying."
+          },
+          {
+            "label": "Exchange availability",
+            "score": 58,
+            "weight": 0.05,
+            "explanation": "Breadth and quality of trading venues."
+          },
+          {
+            "label": "Data quality",
+            "score": 70,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and verifiability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Meme-Coin Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — fictional token and illustrative metrics.",
+        "Meme coins are never classified as safe."
+      ],
+      "catalysts": [
+        "Illustrative exchange listing",
+        "Illustrative community activity"
+      ],
+      "risks": [
+        "Extreme volatility",
+        "Liquidity can disappear",
+        "Attention may reverse without warning"
+      ],
+      "bullCase": "Organic attention persists while verifiable liquidity and distribution improve.",
+      "bearCase": "Momentum fades, concentrated holders sell, or liquidity proves less durable than reported.",
+      "thesisNeeds": [
+        "Liquidity remains verifiable",
+        "No adverse contract-permission change",
+        "Volume is organic rather than wash trading"
+      ],
+      "invalidationPoints": [
+        "Liquidity unlock or removal",
+        "Contract safety warning",
+        "Evidence of manipulated volume"
+      ],
+      "permanentLossCauses": [
+        "Rug pull or exploit",
+        "Irreversible loss of liquidity",
+        "Token becomes untradeable"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "ByteCat executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "ByteCat makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "ByteCat misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "days",
+      "disqualified": false,
+      "tokenAgeDays": 380,
+      "fullyDilutedValuation": 76000000,
+      "liquidity": 6100000,
+      "volumeToLiquidity": 1.4098360655737705,
+      "holders": 51000,
+      "top10Concentration": 42,
+      "developerWalletConcentration": 5.6,
+      "contractVerified": true,
+      "ownershipRenounced": true,
+      "mintAuthority": false,
+      "freezeAuthority": false,
+      "buyTax": 0,
+      "sellTax": 0,
+      "liquidityLocked": true,
+      "liquidityLockExpiration": null,
+      "audited": null,
+      "honeypot": false,
+      "rugPullRisk": false,
+      "largeWalletActivity": 54,
+      "socialMomentum": 70,
+      "exchangeListings": 4
+    },
+    {
+      "id": "meme-frogbyte",
+      "kind": "meme",
+      "symbol": "FRBY",
+      "name": "FrogByte",
+      "category": "Meme coin",
+      "exchange": "Decentralized exchanges",
+      "chain": "Base",
+      "price": 0.000019,
+      "marketCap": 11000000,
+      "change24h": 31.4,
+      "volume24h": 5500000,
+      "avgDailyDollarVolume": 5500000,
+      "momentum": 81.4,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional meme-token demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 0.00001672726343122351,
+          "volume": 17.1
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 0.000016762748586584325,
+          "volume": 20.178
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 0.000017215206498725133,
+          "volume": 23.256
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 0.000017864555424780642,
+          "volume": 26.334000000000003
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 0.000018362685539389932,
+          "volume": 29.412000000000003
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 0.00001845981681946084,
+          "volume": 17.1
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 0.000018166918124484393,
+          "volume": 20.178
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 0.000017748574712325022,
+          "volume": 23.256
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 0.000017550942077501485,
+          "volume": 26.334000000000003
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 0.000017776658867081767,
+          "volume": 29.412000000000003
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 0.000018353081408466735,
+          "volume": 17.1
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 0.000018979520147068987,
+          "volume": 20.178
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 0.000019322762572092328,
+          "volume": 23.256
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 0.000019233744145146497,
+          "volume": 26.334000000000003
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 0.00001884447728973607,
+          "volume": 29.412000000000003
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 0.000018482210513554322,
+          "volume": 17.1
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 0.000018456635563820063,
+          "volume": 20.178
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 0.000018858510839424162,
+          "volume": 23.256
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 0.000019500645880016513,
+          "volume": 26.334000000000003
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 0.000020039621678292476,
+          "volume": 29.412000000000003
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 0.000020199098367446896,
+          "volume": 17.1
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 0.000019949504799488158,
+          "volume": 20.178
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 0.000019527267139267383,
+          "volume": 23.256
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 0.000019281073110185454,
+          "volume": 26.334000000000003
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 0.000019445138332106638,
+          "volume": 29.412000000000003
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 0.00001998690797058295,
+          "volume": 17.1
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 0.000020628225468465993,
+          "volume": 20.178
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 0.00002102620342435508,
+          "volume": 23.256
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 0.0000209961856041203,
+          "volume": 26.334000000000003
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 0.0000206318193764417,
+          "volume": 29.412000000000003
+        }
+      ],
+      "score": {
+        "opportunity": 59.5,
+        "risk": 84,
+        "riskGrade": "F",
+        "parts": [
+          {
+            "label": "Liquidity quality",
+            "score": 55,
+            "weight": 0.2,
+            "explanation": "Depth and durability of available liquidity."
+          },
+          {
+            "label": "Contract safety",
+            "score": 71,
+            "weight": 0.2,
+            "explanation": "Contract verification, permissions, taxes, and security signals."
+          },
+          {
+            "label": "Holder distribution",
+            "score": 44,
+            "weight": 0.15,
+            "explanation": "Concentration across holders and developer wallets."
+          },
+          {
+            "label": "Volume quality",
+            "score": 39,
+            "weight": 0.1,
+            "explanation": "Plausibility of volume relative to liquidity."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 58,
+            "weight": 0.1,
+            "explanation": "Supply controls, inflation, and unlock risks."
+          },
+          {
+            "label": "Market momentum",
+            "score": 92,
+            "weight": 0.1,
+            "explanation": "Price trend without treating momentum as safety."
+          },
+          {
+            "label": "Community momentum",
+            "score": 84,
+            "weight": 0.05,
+            "explanation": "Organic attention; never a call for coordinated buying."
+          },
+          {
+            "label": "Exchange availability",
+            "score": 32,
+            "weight": 0.05,
+            "explanation": "Breadth and quality of trading venues."
+          },
+          {
+            "label": "Data quality",
+            "score": 59,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and verifiability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Meme-Coin Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — fictional token and illustrative metrics.",
+        "Meme coins are never classified as safe."
+      ],
+      "catalysts": [
+        "Illustrative exchange listing",
+        "Illustrative community activity"
+      ],
+      "risks": [
+        "Extreme volatility",
+        "Liquidity can disappear",
+        "Attention may reverse without warning"
+      ],
+      "bullCase": "Organic attention persists while verifiable liquidity and distribution improve.",
+      "bearCase": "Momentum fades, concentrated holders sell, or liquidity proves less durable than reported.",
+      "thesisNeeds": [
+        "Liquidity remains verifiable",
+        "No adverse contract-permission change",
+        "Volume is organic rather than wash trading"
+      ],
+      "invalidationPoints": [
+        "Liquidity unlock or removal",
+        "Contract safety warning",
+        "Evidence of manipulated volume"
+      ],
+      "permanentLossCauses": [
+        "Rug pull or exploit",
+        "Irreversible loss of liquidity",
+        "Token becomes untradeable"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "FrogByte executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "FrogByte makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "FrogByte misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "days",
+      "disqualified": false,
+      "tokenAgeDays": 460,
+      "fullyDilutedValuation": 12000000,
+      "liquidity": 780000,
+      "volumeToLiquidity": 7.051282051282051,
+      "holders": 14000,
+      "top10Concentration": 57,
+      "developerWalletConcentration": 6.9,
+      "contractVerified": true,
+      "ownershipRenounced": false,
+      "mintAuthority": false,
+      "freezeAuthority": false,
+      "buyTax": 0,
+      "sellTax": 0,
+      "liquidityLocked": true,
+      "liquidityLockExpiration": null,
+      "audited": null,
+      "honeypot": false,
+      "rugPullRisk": false,
+      "largeWalletActivity": 58,
+      "socialMomentum": 74,
+      "exchangeListings": 5
+    },
+    {
+      "id": "meme-capydash",
+      "kind": "meme",
+      "symbol": "CAPY",
+      "name": "CapyDash",
+      "category": "Meme coin",
+      "exchange": "Decentralized exchanges",
+      "chain": "Solana",
+      "price": 0.0012,
+      "marketCap": 24000000,
+      "change24h": -12.7,
+      "volume24h": 3200000,
+      "avgDailyDollarVolume": 3200000,
+      "momentum": 37.3,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional meme-token demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 0.0010539657087957218,
+          "volume": 1080
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 0.0010866782086669114,
+          "volume": 1274.3999999999999
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 0.0011275329843175343,
+          "volume": 1468.8
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 0.0011546460690408287,
+          "volume": 1663.2
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 0.0011550690097661997,
+          "volume": 1857.6
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 0.0011332085789848786,
+          "volume": 1080
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 0.0011079612776364225,
+          "volume": 1274.3999999999999
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 0.0011004259140981422,
+          "volume": 1468.8
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 0.0011201841361109515,
+          "volume": 1663.2
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 0.0011590699789013085,
+          "volume": 1857.6
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 0.0011964797713617812,
+          "volume": 1080
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 0.0012127696418681372,
+          "volume": 1274.3999999999999
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 0.001202028915941518,
+          "volume": 1468.8
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 0.0011759235233432465,
+          "volume": 1663.2
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 0.0011561102449814053,
+          "volume": 1857.6
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 0.001160154424046748,
+          "volume": 1080
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 0.001190108128304738,
+          "volume": 1274.3999999999999
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 0.001231175796150491,
+          "volume": 1468.8
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 0.0012613350280509883,
+          "volume": 1663.2
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 0.0012656566183642368,
+          "volume": 1857.6
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 0.0012460122486134537,
+          "volume": 1080
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 0.0012198574294218169,
+          "volume": 1274.3999999999999
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 0.0012088810812646096,
+          "volume": 1468.8
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 0.0012249023469004154,
+          "volume": 1663.2
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 0.0012621852117591329,
+          "volume": 1857.6
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 0.0013011683386966232,
+          "volume": 1080
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 0.0013211847977366669,
+          "volume": 1274.3999999999999
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 0.0013139007058713195,
+          "volume": 1468.8
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 0.0012887343218181398,
+          "volume": 1663.2
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 0.0012667318376061896,
+          "volume": 1857.6
+        }
+      ],
+      "score": {
+        "opportunity": 58.2,
+        "risk": 79,
+        "riskGrade": "E",
+        "parts": [
+          {
+            "label": "Liquidity quality",
+            "score": 63,
+            "weight": 0.2,
+            "explanation": "Depth and durability of available liquidity."
+          },
+          {
+            "label": "Contract safety",
+            "score": 73,
+            "weight": 0.2,
+            "explanation": "Contract verification, permissions, taxes, and security signals."
+          },
+          {
+            "label": "Holder distribution",
+            "score": 53,
+            "weight": 0.15,
+            "explanation": "Concentration across holders and developer wallets."
+          },
+          {
+            "label": "Volume quality",
+            "score": 61,
+            "weight": 0.1,
+            "explanation": "Plausibility of volume relative to liquidity."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 60,
+            "weight": 0.1,
+            "explanation": "Supply controls, inflation, and unlock risks."
+          },
+          {
+            "label": "Market momentum",
+            "score": 28,
+            "weight": 0.1,
+            "explanation": "Price trend without treating momentum as safety."
+          },
+          {
+            "label": "Community momentum",
+            "score": 61,
+            "weight": 0.05,
+            "explanation": "Organic attention; never a call for coordinated buying."
+          },
+          {
+            "label": "Exchange availability",
+            "score": 39,
+            "weight": 0.05,
+            "explanation": "Breadth and quality of trading venues."
+          },
+          {
+            "label": "Data quality",
+            "score": 62,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and verifiability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Meme-Coin Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — fictional token and illustrative metrics.",
+        "Meme coins are never classified as safe."
+      ],
+      "catalysts": [
+        "Illustrative exchange listing",
+        "Illustrative community activity"
+      ],
+      "risks": [
+        "Extreme volatility",
+        "Liquidity can disappear",
+        "Attention may reverse without warning"
+      ],
+      "bullCase": "Organic attention persists while verifiable liquidity and distribution improve.",
+      "bearCase": "Momentum fades, concentrated holders sell, or liquidity proves less durable than reported.",
+      "thesisNeeds": [
+        "Liquidity remains verifiable",
+        "No adverse contract-permission change",
+        "Volume is organic rather than wash trading"
+      ],
+      "invalidationPoints": [
+        "Liquidity unlock or removal",
+        "Contract safety warning",
+        "Evidence of manipulated volume"
+      ],
+      "permanentLossCauses": [
+        "Rug pull or exploit",
+        "Irreversible loss of liquidity",
+        "Token becomes untradeable"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "CapyDash executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "CapyDash makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "CapyDash misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "days",
+      "disqualified": false,
+      "tokenAgeDays": 540,
+      "fullyDilutedValuation": 25000000,
+      "liquidity": 1900000,
+      "volumeToLiquidity": 1.6842105263157894,
+      "holders": 23000,
+      "top10Concentration": 48,
+      "developerWalletConcentration": 8.2,
+      "contractVerified": true,
+      "ownershipRenounced": true,
+      "mintAuthority": false,
+      "freezeAuthority": false,
+      "buyTax": 0,
+      "sellTax": 0,
+      "liquidityLocked": true,
+      "liquidityLockExpiration": null,
+      "audited": null,
+      "honeypot": false,
+      "rugPullRisk": false,
+      "largeWalletActivity": 62,
+      "socialMomentum": 78,
+      "exchangeListings": 6
+    },
+    {
+      "id": "meme-racc",
+      "kind": "meme",
+      "symbol": "RACC",
+      "name": "RocketRaccoon",
+      "category": "Meme coin",
+      "exchange": "Decentralized exchanges",
+      "chain": "Arbitrum",
+      "price": 0.0000068,
+      "marketCap": 6800000,
+      "change24h": 44.1,
+      "volume24h": 2900000,
+      "avgDailyDollarVolume": 2900000,
+      "momentum": 94.1,
+      "dataQuality": "medium",
+      "dataTimestamp": "2026-01-15T16:00:00.000Z",
+      "isDemo": true,
+      "stale": true,
+      "sourceLabel": "Breakout Radar fictional meme-token demo dataset",
+      "sourceLinks": [],
+      "priceHistory": [
+        {
+          "time": "2025-12-17T00:00:00.000Z",
+          "price": 0.000006156500283476731,
+          "volume": 6.12
+        },
+        {
+          "time": "2025-12-18T00:00:00.000Z",
+          "price": 0.000006381624241570867,
+          "volume": 7.2216
+        },
+        {
+          "time": "2025-12-19T00:00:00.000Z",
+          "price": 0.0000065073744688981775,
+          "volume": 8.3232
+        },
+        {
+          "time": "2025-12-20T00:00:00.000Z",
+          "price": 0.000006478512209275532,
+          "volume": 9.424800000000001
+        },
+        {
+          "time": "2025-12-21T00:00:00.000Z",
+          "price": 0.000006340335241125991,
+          "volume": 10.5264
+        },
+        {
+          "time": "2025-12-22T00:00:00.000Z",
+          "price": 0.000006209223065918293,
+          "volume": 6.12
+        },
+        {
+          "time": "2025-12-23T00:00:00.000Z",
+          "price": 0.000006196961314250232,
+          "volume": 7.2216
+        },
+        {
+          "time": "2025-12-24T00:00:00.000Z",
+          "price": 0.0000063380533094825406,
+          "volume": 8.3232
+        },
+        {
+          "time": "2025-12-25T00:00:00.000Z",
+          "price": 0.0000065672843341735375,
+          "volume": 9.424800000000001
+        },
+        {
+          "time": "2025-12-26T00:00:00.000Z",
+          "price": 0.0000067621274009599165,
+          "volume": 10.5264
+        },
+        {
+          "time": "2025-12-27T00:00:00.000Z",
+          "price": 0.000006822416239831255,
+          "volume": 6.12
+        },
+        {
+          "time": "2025-12-28T00:00:00.000Z",
+          "price": 0.000006735478262937276,
+          "volume": 7.2216
+        },
+        {
+          "time": "2025-12-29T00:00:00.000Z",
+          "price": 0.0000065843748955733576,
+          "volume": 8.3232
+        },
+        {
+          "time": "2025-12-30T00:00:00.000Z",
+          "price": 0.000006493891010647418,
+          "volume": 9.424800000000001
+        },
+        {
+          "time": "2025-12-31T00:00:00.000Z",
+          "price": 0.00000654939375476233,
+          "volume": 10.5264
+        },
+        {
+          "time": "2026-01-01T00:00:00.000Z",
+          "price": 0.000006741322690907642,
+          "volume": 6.12
+        },
+        {
+          "time": "2026-01-02T00:00:00.000Z",
+          "price": 0.000006971406458092384,
+          "volume": 7.2216
+        },
+        {
+          "time": "2026-01-03T00:00:00.000Z",
+          "price": 0.000007116563574442987,
+          "volume": 8.3232
+        },
+        {
+          "time": "2026-01-04T00:00:00.000Z",
+          "price": 0.00000710893598369016,
+          "volume": 9.424800000000001
+        },
+        {
+          "time": "2026-01-05T00:00:00.000Z",
+          "price": 0.000006980013653104092,
+          "volume": 10.5264
+        },
+        {
+          "time": "2026-01-06T00:00:00.000Z",
+          "price": 0.000006840158270146236,
+          "volume": 6.12
+        },
+        {
+          "time": "2026-01-07T00:00:00.000Z",
+          "price": 0.000006806840722963008,
+          "volume": 7.2216
+        },
+        {
+          "time": "2026-01-08T00:00:00.000Z",
+          "price": 0.000006928255833941066,
+          "volume": 8.3232
+        },
+        {
+          "time": "2026-01-09T00:00:00.000Z",
+          "price": 0.000007151983749713388,
+          "volume": 9.424800000000001
+        },
+        {
+          "time": "2026-01-10T00:00:00.000Z",
+          "price": 0.000007359075871125526,
+          "volume": 10.5264
+        },
+        {
+          "time": "2026-01-11T00:00:00.000Z",
+          "price": 0.000007441400999016963,
+          "volume": 6.12
+        },
+        {
+          "time": "2026-01-12T00:00:00.000Z",
+          "price": 0.000007371957482100409,
+          "volume": 7.2216
+        },
+        {
+          "time": "2026-01-13T00:00:00.000Z",
+          "price": 0.00000722243099966499,
+          "volume": 8.3232
+        },
+        {
+          "time": "2026-01-14T00:00:00.000Z",
+          "price": 0.000007116581057590958,
+          "volume": 9.424800000000001
+        },
+        {
+          "time": "2026-01-15T00:00:00.000Z",
+          "price": 0.0000071497665577831364,
+          "volume": 10.5264
+        }
+      ],
+      "score": {
+        "opportunity": 52.5,
+        "risk": 91,
+        "riskGrade": "F",
+        "parts": [
+          {
+            "label": "Liquidity quality",
+            "score": 43,
+            "weight": 0.2,
+            "explanation": "Depth and durability of available liquidity."
+          },
+          {
+            "label": "Contract safety",
+            "score": 67,
+            "weight": 0.2,
+            "explanation": "Contract verification, permissions, taxes, and security signals."
+          },
+          {
+            "label": "Holder distribution",
+            "score": 32,
+            "weight": 0.15,
+            "explanation": "Concentration across holders and developer wallets."
+          },
+          {
+            "label": "Volume quality",
+            "score": 31,
+            "weight": 0.1,
+            "explanation": "Plausibility of volume relative to liquidity."
+          },
+          {
+            "label": "Tokenomics",
+            "score": 48,
+            "weight": 0.1,
+            "explanation": "Supply controls, inflation, and unlock risks."
+          },
+          {
+            "label": "Market momentum",
+            "score": 96,
+            "weight": 0.1,
+            "explanation": "Price trend without treating momentum as safety."
+          },
+          {
+            "label": "Community momentum",
+            "score": 88,
+            "weight": 0.05,
+            "explanation": "Organic attention; never a call for coordinated buying."
+          },
+          {
+            "label": "Exchange availability",
+            "score": 24,
+            "weight": 0.05,
+            "explanation": "Breadth and quality of trading venues."
+          },
+          {
+            "label": "Data quality",
+            "score": 51,
+            "weight": 0.05,
+            "explanation": "Coverage, freshness, and verifiability."
+          }
+        ],
+        "penalties": [],
+        "explanation": "Meme-Coin Score is a weighted research score, reduced by 0 separate penalty points. It is not a forecast or recommendation."
+      },
+      "warnings": [
+        "DEMO DATA — fictional token and illustrative metrics.",
+        "Meme coins are never classified as safe."
+      ],
+      "catalysts": [
+        "Illustrative exchange listing",
+        "Illustrative community activity"
+      ],
+      "risks": [
+        "Extreme volatility",
+        "Liquidity can disappear",
+        "Attention may reverse without warning"
+      ],
+      "bullCase": "Organic attention persists while verifiable liquidity and distribution improve.",
+      "bearCase": "Momentum fades, concentrated holders sell, or liquidity proves less durable than reported.",
+      "thesisNeeds": [
+        "Liquidity remains verifiable",
+        "No adverse contract-permission change",
+        "Volume is organic rather than wash trading"
+      ],
+      "invalidationPoints": [
+        "Liquidity unlock or removal",
+        "Contract safety warning",
+        "Evidence of manipulated volume"
+      ],
+      "permanentLossCauses": [
+        "Rug pull or exploit",
+        "Irreversible loss of liquidity",
+        "Token becomes untradeable"
+      ],
+      "scenarios": [
+        {
+          "label": "Best case",
+          "narrative": "RocketRaccoon executes on its identified catalyst while liquidity and market conditions improve.",
+          "assumptions": [
+            "Catalyst occurs on schedule",
+            "No adverse financing surprise",
+            "Risk appetite remains constructive"
+          ]
+        },
+        {
+          "label": "Base case",
+          "narrative": "RocketRaccoon makes uneven progress and valuation follows the underlying evidence rather than attention alone.",
+          "assumptions": [
+            "Mixed execution",
+            "Normal volatility",
+            "No thesis-changing event"
+          ]
+        },
+        {
+          "label": "Worst case",
+          "narrative": "RocketRaccoon misses milestones and loss of confidence compounds the fundamental or liquidity risk.",
+          "assumptions": [
+            "Catalyst fails or is delayed",
+            "Liquidity deteriorates",
+            "Downside risks materialize"
+          ]
+        }
+      ],
+      "timeHorizon": "days",
+      "disqualified": false,
+      "tokenAgeDays": 620,
+      "fullyDilutedValuation": 8500000,
+      "liquidity": 410000,
+      "volumeToLiquidity": 7.073170731707317,
+      "holders": 8200,
+      "top10Concentration": 68,
+      "developerWalletConcentration": 9.5,
+      "contractVerified": true,
+      "ownershipRenounced": false,
+      "mintAuthority": false,
+      "freezeAuthority": false,
+      "buyTax": 0,
+      "sellTax": 0,
+      "liquidityLocked": true,
+      "liquidityLockExpiration": null,
+      "audited": null,
+      "honeypot": false,
+      "rugPullRisk": false,
+      "largeWalletActivity": 66,
+      "socialMomentum": 82,
+      "exchangeListings": 7
+    }
+  ],
+  "errors": [
+    "FORCE_DEMO_DATA=true; provider requests were skipped."
+  ]
+}

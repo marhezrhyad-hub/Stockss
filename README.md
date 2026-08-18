@@ -1,4 +1,3 @@
-[Breakout-Radar-README.md](https://github.com/user-attachments/files/31162390/Breakout-Radar-README.md)
 # Breakout Radar
 
 Breakout Radar is a dark, mobile-first investment-research dashboard for speculative stocks, established cryptocurrencies, and meme coins. It emphasizes transparent calculations, skeptical thesis framing, data provenance, and risk controls. It does **not** place trades, connect to a brokerage, predict guaranteed gains, or encourage coordinated buying.

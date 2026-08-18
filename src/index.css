@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input, select { font: inherit; }
+button, a, input, select { outline-offset: 3px; }
+:focus-visible { outline: 2px solid #41e68c; }
+::selection { background: rgba(65, 230, 140, .3); }
+
+@layer components {
+  .card { @apply rounded-2xl border border-line bg-panel p-5 shadow-glow sm:p-6; }
+  .section-title { @apply mb-5 text-lg font-black tracking-tight; }
+  .label { @apply mb-1.5 block text-[10px] font-semibold uppercase tracking-wider text-muted; }
+  .input { @apply w-full rounded-xl border border-line bg-black/30 px-3 py-2.5 text-sm text-white placeholder:text-muted/60 hover:border-white/20 focus:border-gain focus:outline-none; }
+  .button-primary { @apply inline-flex items-center justify-center gap-2 rounded-xl bg-gain px-4 py-2.5 text-sm font-bold text-black transition hover:bg-emerald-300 disabled:opacity-50; }
+  .button-secondary { @apply inline-flex items-center justify-center gap-2 rounded-xl border border-line bg-white/5 px-4 py-2.5 text-sm font-semibold text-white transition hover:border-white/30 hover:bg-white/10; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
